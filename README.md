@@ -37,13 +37,14 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=angular,react,reactnative,flutter,vue,html,css,sass,tailwind,bootstrap"/>
+            <img height="40" src="https://skillicons.dev/icons?i=angular,react,flutter,vue,html,css,sass,tailwind,bootstrap"/>
+            <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native"/>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Desktop Apps:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=electron"/> <!-- Electron icon is now included -->
+            <img height="40" src="https://skillicons.dev/icons?i=electron"/>
         </td>
     </tr>
     <tr>
@@ -71,4 +72,5 @@
         </td>
     </tr>
 </table>
+
 
