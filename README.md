@@ -23,66 +23,74 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-            Programming Languages: 
-            <span title="Lenguajes base que usas para construir software.">(?)</span>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=python,javascript,typescript,cplusplus,rust"/>
+            <img height="40" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js"/>
+            <img height="40" src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS"/>
+            <img height="40" src="https://skillicons.dev/icons?i=django" title="Django" alt="Django"/>
+            <img height="40" src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask"/>
+            <img height="40" src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel"/>
+            <img height="40" src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript"/>
+            <img height="40" src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
+            <img height="40" src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP"/>
+            <img height="40" src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust"/>
+            <img height="40" src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-            Backend: 
-            <span title="Herramientas y frameworks utilizados para el desarrollo del lado del servidor.">(?)</span>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=nodejs,django,flask,nestjs,laravel"/>
+            <img height="40" src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular"/>
+            <img height="40" src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>
+            <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native"/>
+            <img height="40" src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter"/>
+            <img height="40" src="https://skillicons.dev/icons?i=vue" title="Vue.js" alt="Vue.js"/>
+            <img height="40" src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/>
+            <img height="40" src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/>
+            <img height="40" src="https://skillicons.dev/icons?i=sass" title="SASS" alt="SASS"/>
+            <img height="40" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS"/>
+            <img height="40" src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap"/>
+            <img height="40" src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-            Frontend: 
-            <span title="Frameworks y tecnologías usadas para construir interfaces de usuario.">(?)</span>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Desktop Apps:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=react,angular,vue,tailwind,bootstrap,css,html,sass"/>
+            <img height="40" src="https://skillicons.dev/icons?i=electron" title="Electron" alt="Electron"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-            Database: 
-            <span title="Sistemas de bases de datos utilizados para almacenar y gestionar información.">(?)</span>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase"/>
+            <img height="40" src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/>
+            <img height="40" src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL"/>
+            <img height="40" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB"/>
+            <img height="40" src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-            DevOps: 
-            <span title="Herramientas para la automatización, despliegue y administración de infraestructura.">(?)</span>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=docker,aws,gcp"/>
+            <img height="40" src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker"/>
+            <img height="40" src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS"/>
+            <img height="40" src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" alt="Google Cloud Platform"/>
+            <img height="40" src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-            Version Control: 
-            <span title="Herramientas utilizadas para el control de versiones de proyectos.">(?)</span>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/>
+            <img height="40" src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
+            <img height="40" src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/>
+            <img height="40" src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-            Operating Systems: 
-            <span title="Sistemas operativos con los que tienes experiencia.">(?)</span>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows"/>
+            <img height="40" src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows"/>
+            <img height="40" src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu"/>
+            <img height="40" src="https://skillicons.dev/icons?i=debian" title="Debian" alt="Debian"/>
         </td>
     </tr>
 </table>
