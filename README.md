@@ -24,34 +24,51 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=typescript,js,python,rust,cpp,php"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=typescript,js,python,rust,cpp,php"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=django,flask,laravel,nodejs,nestjs"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=django,flask,laravel,nodejs,nestjs"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=angular,react,reactnative,flutter,vue"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=angular,react,reactnative,flutter,vue,html,css,sass,tailwind,bootstrap"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Desktop Apps:</td>
-        <td>Electron 🖥️</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=electron"/> <!-- Electron icon is now included -->
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,gcp,linux"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=docker,aws,gcp,linux"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/>
+        </td>
     </tr>
 </table>
+
