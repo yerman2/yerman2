@@ -15,7 +15,7 @@
 - :computer: I enjoy using multiple technologies to build efficient and innovative solutions.
 - :rocket: I'm always learning, improving one step at a time.
 - :video_game: In my free time, I explore `Game Development` and dive into `Artificial Intelligence`.
-- :mailbox_with_mail: Feel free to reach out to me for `collaboration` or `exciting discussions`, yermanrattia@gmail.com.
+- :mailbox_with_mail: Feel free to reach out to me for `collaboration` or `exciting discussions`, yermanrattia [@gmail].
 
 <br><br>
 
