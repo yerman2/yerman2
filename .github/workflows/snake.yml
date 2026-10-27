@@ -1,0 +1,32 @@
+# Regenera cada día la serpiente con tus contribuciones reales (se las come, da vueltas y explota)
+# y la publica en la rama "output", desde donde la lee el README.
+name: snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar la serpiente
+        run: |
+          mkdir -p dist
+          python3 scripts/snake.py ${{ github.repository_owner }} dist/snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
